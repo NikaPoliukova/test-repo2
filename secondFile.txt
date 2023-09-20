@@ -8,3 +8,5 @@ Hello secondfile
 8
 update in branch git_1 line 9
 update in branch git_1 line 10
+update line 9
+update line 10
